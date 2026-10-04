@@ -1,6 +1,6 @@
 [versions]
-minecraft = "26.1.2"
-neoforge = "26.1.2.100"
+minecraft = "26.2"
+neoforge = "26.2.0.88"
 
 adapter-core = "2.0.54+26.1.2"
 adapter-runtime = "1.0.0+26.1.2"
