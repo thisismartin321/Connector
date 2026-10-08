@@ -8,7 +8,7 @@ launchpad = "1.9.2+26.2"
 auto-renaming-tool = "2.0.23"
 classtweaker = "0.3.0-beta.2"
 forgified-fabric-loader = "2.5.86+0.19.3+26.2"
-forgified-fabric-api = "0.159.0+26.2"
+forgified-fabric-api = "0.161.0+26.2+4.0.0"
 
 moddev = "2.0.141"
 shadow = "9.4.2"
